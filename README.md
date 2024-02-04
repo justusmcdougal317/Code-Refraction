@@ -1,1 +1,1 @@
-# Code-Refraction
+Mission was to make additions to a website to optimize it for search engines. This was done using a html file to structure the webpage followed by linked images to cover desired esthetic of the webpage. Style.css was used to dictate font specifics color of the page andtext placement. all combined to create the succesful product.
